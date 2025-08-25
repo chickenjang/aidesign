@@ -24,3 +24,4 @@ DEFAULT_VALUES = {
     'substation_size': (50, 50),
     'parking_count': 150
 }
+ 
